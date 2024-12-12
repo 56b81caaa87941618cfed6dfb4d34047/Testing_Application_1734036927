@@ -103,5 +103,23 @@
         "source": "base_assistant",
         "content": "The header currently says \"TestPro\". How would you like to proceed?",
         "metadata": {}
+    },
+    {
+        "id": "5dfc5b57-2c90-48e0-9a34-d5a7d8f781e5",
+        "timestamp": "2024-12-12T21:25:16.226438Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
+    },
+    {
+        "id": "8c919054-89ee-489e-8a2f-04d384135c85",
+        "timestamp": "2024-12-12T21:25:18.943885Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header displays \"TestPro\". How would you like to edit or customize it?",
+        "metadata": {}
     }
 ]
