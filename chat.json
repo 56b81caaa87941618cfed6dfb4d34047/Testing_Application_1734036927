@@ -257,5 +257,13 @@
         "metadata": {
             "component_id": "Header1734036930"
         }
+    },
+    {
+        "id": "ce9aa893-c864-4f36-bce5-8ef8ca044a36",
+        "timestamp": "2024-12-12T21:48:59.939215Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header currently displays \"TestPro\". How can I assist you with it?",
+        "metadata": {}
     }
 ]
