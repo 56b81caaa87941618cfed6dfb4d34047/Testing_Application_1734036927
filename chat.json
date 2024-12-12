@@ -121,5 +121,23 @@
         "source": "base_assistant",
         "content": "The header displays \"TestPro\". How would you like to edit or customize it?",
         "metadata": {}
+    },
+    {
+        "id": "d0f9421f-ccbc-4616-b479-5edf4f1280fb",
+        "timestamp": "2024-12-12T21:27:06.388230Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
+    },
+    {
+        "id": "32153d99-311d-4402-913a-8da5d3ab0e49",
+        "timestamp": "2024-12-12T21:27:08.081442Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header shows \"TestPro\". What changes would you like to make?",
+        "metadata": {}
     }
 ]
