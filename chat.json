@@ -149,5 +149,13 @@
         "metadata": {
             "component_id": "Header1734036930"
         }
+    },
+    {
+        "id": "2d343d8c-557e-4d4e-8df9-ae779976f7eb",
+        "timestamp": "2024-12-12T21:29:16.939370Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header currently displays the text \"TestPro\". How would you like to proceed with this information?",
+        "metadata": {}
     }
 ]
