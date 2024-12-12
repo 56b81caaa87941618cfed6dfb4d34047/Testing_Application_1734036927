@@ -211,5 +211,15 @@
         "source": "base_assistant",
         "content": "The header displays \"TestPro\". What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "4345f14f-00f1-48e9-bf69-e398496f386b",
+        "timestamp": "2024-12-12T21:44:19.165807Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Header1734036930"
+        }
     }
 ]
