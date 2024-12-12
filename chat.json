@@ -157,5 +157,15 @@
         "source": "base_assistant",
         "content": "The header currently displays the text \"TestPro\". How would you like to proceed with this information?",
         "metadata": {}
+    },
+    {
+        "id": "ac961203-437d-4087-8d1f-852f7d95e800",
+        "timestamp": "2024-12-12T21:30:10.749598Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Header1734036930"
+        }
     }
 ]
