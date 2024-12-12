@@ -301,5 +301,23 @@
         "source": "base_assistant",
         "content": "The header currently says \"TestPro\". What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "365c877a-b846-4d2b-9e51-56f97d292c5d",
+        "timestamp": "2024-12-12T22:53:50.888059Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Header1734036930"
+        }
+    },
+    {
+        "id": "62087351-3832-4f68-ac71-4a1f190122c7",
+        "timestamp": "2024-12-12T22:53:52.679275Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header displays \"TestPro\". How would you like to proceed with it?",
+        "metadata": {}
     }
 ]
