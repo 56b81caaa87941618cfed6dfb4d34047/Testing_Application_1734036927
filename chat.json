@@ -319,5 +319,23 @@
         "source": "base_assistant",
         "content": "The header displays \"TestPro\". How would you like to proceed with it?",
         "metadata": {}
+    },
+    {
+        "id": "3a5e3c1f-3f5b-4af1-b774-bb467051914e",
+        "timestamp": "2024-12-12T22:54:00.997664Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Header1734036930"
+        }
+    },
+    {
+        "id": "d0f88516-c91f-4f16-92f7-072a04cdedfb",
+        "timestamp": "2024-12-12T22:54:03.988339Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header currently says \"TestPro\". How can I assist you with it?",
+        "metadata": {}
     }
 ]
