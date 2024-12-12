@@ -337,5 +337,15 @@
         "source": "base_assistant",
         "content": "The header currently says \"TestPro\". How can I assist you with it?",
         "metadata": {}
+    },
+    {
+        "id": "148fcda9-53cd-44eb-bd8e-c5e7ee627850",
+        "timestamp": "2024-12-12T23:22:47.044170Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change background color to blue",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
     }
 ]
