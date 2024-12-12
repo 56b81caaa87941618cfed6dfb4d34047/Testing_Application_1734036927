@@ -6,5 +6,48 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "b63a3d9d-76cb-435e-8c12-44ac4fe6b9a9",
+        "timestamp": "2024-12-12T21:12:41.380922Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Header1734036930"
+        }
+    },
+    {
+        "id": "33ac26c4-2dcf-4938-83bf-d0e98b1dec5c",
+        "timestamp": "2024-12-12T21:12:43.657743Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_BN1hPwNw0w4diVNYJF4QQ3ZC",
+            "function": {
+                "arguments": "{\"component_id\":\"Header1734036930\"}",
+                "name": "ReadComponentCode"
+            },
+            "type": "function"
+        }
+    },
+    {
+        "id": "c6606342-374a-46c4-8e3a-c65721739936",
+        "timestamp": "2024-12-12T21:12:43.758751Z",
+        "role": "tool_result",
+        "source": "ReadComponentCode",
+        "content": "import React from 'react';\n\nconst Header: React.FC = () => {\n  return (\n    <header className=\"bg-blue-500 text-white p-4 w-full h-full\"> {/* Full width and height */}\n      <div className=\"container mx-auto flex justify-between items-center h-full\">\n        <div className=\"text-2xl font-bold\">TestPro</div>\n      </div>\n    </header>\n  );\n};\n\nexport { Header as component };",
+        "metadata": {
+            "tool_call_id": "call_BN1hPwNw0w4diVNYJF4QQ3ZC"
+        }
+    },
+    {
+        "id": "f864e507-a96a-47e6-b045-c1b9dc7b12d3",
+        "timestamp": "2024-12-12T21:12:44.489079Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header currently displays \"TestPro\" as its text. How would you like to adjust this?",
+        "metadata": {}
     }
 ]
