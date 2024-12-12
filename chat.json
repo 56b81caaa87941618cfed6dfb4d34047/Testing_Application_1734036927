@@ -103,5 +103,15 @@
         "source": "base_assistant",
         "content": "The header currently says \"TestPro\". How would you like to proceed?",
         "metadata": {}
+    },
+    {
+        "id": "5dfc5b57-2c90-48e0-9a34-d5a7d8f781e5",
+        "timestamp": "2024-12-12T21:25:16.226438Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
     }
 ]
