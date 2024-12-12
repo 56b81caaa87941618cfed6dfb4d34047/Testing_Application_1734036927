@@ -77,5 +77,13 @@
         "metadata": {
             "component_id": "Hero1734036930"
         }
+    },
+    {
+        "id": "f35e2d55-cb3b-497e-be42-824819526f9f",
+        "timestamp": "2024-12-12T21:21:07.059305Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header displays the text \"TestPro\". How can I assist you further with it?",
+        "metadata": {}
     }
 ]
