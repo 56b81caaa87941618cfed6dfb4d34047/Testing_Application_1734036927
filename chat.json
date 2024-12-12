@@ -95,5 +95,13 @@
         "metadata": {
             "component_id": "Hero1734036930"
         }
+    },
+    {
+        "id": "f06a639c-c35f-4b47-9898-ea72fe35d20c",
+        "timestamp": "2024-12-12T21:24:14.633258Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header currently says \"TestPro\". How would you like to proceed?",
+        "metadata": {}
     }
 ]
