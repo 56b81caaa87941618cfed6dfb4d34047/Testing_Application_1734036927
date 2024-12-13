@@ -499,5 +499,15 @@
         "source": "base_assistant",
         "content": "The header currently says \"TestPro\". How can I assist you further?",
         "metadata": {}
+    },
+    {
+        "id": "f4352c5d-6083-4bc2-a97d-75c65c9c1de2",
+        "timestamp": "2024-12-13T22:08:29.668615Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change background to red",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
     }
 ]
