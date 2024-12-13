@@ -1366,5 +1366,23 @@
         "source": "base_assistant",
         "content": "Hi! How can I assist you with your app today?",
         "metadata": {}
+    },
+    {
+        "id": "22c293f9-0cfd-4478-ae66-373d6510ecd5",
+        "timestamp": "2024-12-13T23:46:13.225783Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "bye",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
+    },
+    {
+        "id": "70324b11-e234-49ca-9e8e-881ed2f19416",
+        "timestamp": "2024-12-13T23:46:14.745509Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "It was a pleasure assisting you. Feel free to come back anytime you need help. Have a great day!",
+        "metadata": {}
     }
 ]
