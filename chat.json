@@ -943,5 +943,15 @@
         "source": "base_assistant",
         "content": "The background color of the header has been changed to green. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "02f681f3-18aa-40c6-9f31-135f64022c31",
+        "timestamp": "2024-12-13T22:40:28.221895Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change background color to blue",
+        "metadata": {
+            "component_id": "Header1734036930"
+        }
     }
 ]
