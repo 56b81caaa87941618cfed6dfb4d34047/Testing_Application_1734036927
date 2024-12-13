@@ -790,5 +790,15 @@
         "source": "base_assistant",
         "content": "The background color of the header has been changed back to blue. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "4b3e0666-fb04-473c-b2a3-18ffa543dfba",
+        "timestamp": "2024-12-13T22:26:45.128973Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change background color to yellow",
+        "metadata": {
+            "component_id": "Header1734036930"
+        }
     }
 ]
