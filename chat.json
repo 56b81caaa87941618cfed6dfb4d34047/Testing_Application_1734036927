@@ -1045,5 +1045,15 @@
         "source": "base_assistant",
         "content": "The background color of the header is already blue. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "e26c1e8b-bb91-43a9-a425-f05d7eb6ec88",
+        "timestamp": "2024-12-13T23:25:55.546657Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change background color to blue",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
     }
 ]
