@@ -1150,5 +1150,23 @@
         "source": "base_assistant",
         "content": "The background color of the header is already blue. Would you like to make any other adjustments?",
         "metadata": {}
+    },
+    {
+        "id": "67abd5c5-9c1f-4a8a-8ba2-378d96e3b63c",
+        "timestamp": "2024-12-13T23:36:12.350150Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hello",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
+    },
+    {
+        "id": "4c28ecc0-7c97-4fd1-9b59-72e14a7cadb4",
+        "timestamp": "2024-12-13T23:36:13.993414Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Hi there! How can I assist you with your app today?",
+        "metadata": {}
     }
 ]
