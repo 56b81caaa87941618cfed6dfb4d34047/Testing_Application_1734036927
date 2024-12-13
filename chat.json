@@ -463,5 +463,23 @@
         "source": "base_assistant",
         "content": "The header currently displays the text \"TestPro\". How can I assist you with it?",
         "metadata": {}
+    },
+    {
+        "id": "61874508-cd5f-47fe-9bd0-947f41e0f211",
+        "timestamp": "2024-12-13T20:37:12.768374Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
+    },
+    {
+        "id": "a173ea62-a99f-4b91-bf24-5b492132183f",
+        "timestamp": "2024-12-13T20:37:15.834885Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header says \"TestPro\". How would you like to modify it?",
+        "metadata": {}
     }
 ]
