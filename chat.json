@@ -1484,5 +1484,13 @@
         "metadata": {
             "component_id": "Hero1734036930"
         }
+    },
+    {
+        "id": "197bbef8-65c5-470c-87ad-d47666ee7953",
+        "timestamp": "2024-12-13T23:57:03.075608Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Hello! How can I assist you with your app today?",
+        "metadata": {}
     }
 ]
