@@ -1384,5 +1384,23 @@
         "source": "base_assistant",
         "content": "It was a pleasure assisting you. Feel free to come back anytime you need help. Have a great day!",
         "metadata": {}
+    },
+    {
+        "id": "8890d2a4-9687-4262-a1ad-eafcb11d5465",
+        "timestamp": "2024-12-13T23:46:33.019775Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
+    },
+    {
+        "id": "0937daa8-85a7-4b89-9796-d898d891752f",
+        "timestamp": "2024-12-13T23:46:37.158552Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "How can I assist you with your app today?",
+        "metadata": {}
     }
 ]
