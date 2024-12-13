@@ -601,5 +601,23 @@
         "source": "base_assistant",
         "content": "The background color of the header has been changed back to blue. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "197573cf-dea8-480b-9327-f14b9719dacd",
+        "timestamp": "2024-12-13T22:10:16.649441Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the header say",
+        "metadata": {
+            "component_id": "Header1734036930"
+        }
+    },
+    {
+        "id": "f7872002-56ec-426b-a8c0-d89a35d6e570",
+        "timestamp": "2024-12-13T22:10:18.801980Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header displays \"TestPro\". How would you like to proceed?",
+        "metadata": {}
     }
 ]
