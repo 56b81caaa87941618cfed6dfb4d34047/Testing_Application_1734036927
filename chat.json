@@ -892,5 +892,15 @@
         "source": "base_assistant",
         "content": "The background color of the header has been changed to purple. How would you like to proceed?",
         "metadata": {}
+    },
+    {
+        "id": "b5d7e082-964e-4998-80e5-56a971c8dca8",
+        "timestamp": "2024-12-13T22:37:32.183326Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change background color to green",
+        "metadata": {
+            "component_id": "Header1734036930"
+        }
     }
 ]
