@@ -1798,5 +1798,15 @@
         "source": "base_assistant",
         "content": "How can I assist you with your app today?",
         "metadata": {}
+    },
+    {
+        "id": "212faa18-3ea9-46e6-84eb-289278715f4c",
+        "timestamp": "2024-12-14T00:18:07.189917Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change background to blue",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
     }
 ]
