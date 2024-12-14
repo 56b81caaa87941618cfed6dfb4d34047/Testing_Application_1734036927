@@ -1993,5 +1993,15 @@
         "source": "base_assistant",
         "content": "Hello! How can I assist you with your app today?",
         "metadata": {}
+    },
+    {
+        "id": "55d1f34d-0d16-428d-b5f5-6dbd778157d2",
+        "timestamp": "2024-12-14T00:59:15.147841Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
     }
 ]
