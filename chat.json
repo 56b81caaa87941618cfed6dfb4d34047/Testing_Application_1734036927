@@ -1975,5 +1975,15 @@
         "source": "base_assistant",
         "content": "How can I help you with your app today?",
         "metadata": {}
+    },
+    {
+        "id": "6f4e6b15-61d8-40ec-8041-a75b1d96715c",
+        "timestamp": "2024-12-14T00:41:55.872959Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
     }
 ]
