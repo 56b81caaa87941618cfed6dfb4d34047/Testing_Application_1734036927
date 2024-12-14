@@ -2021,5 +2021,13 @@
         "metadata": {
             "component_id": "Hero1734036930"
         }
+    },
+    {
+        "id": "4c430caa-61ad-493e-bbc5-4dd90a21b6aa",
+        "timestamp": "2024-12-14T01:00:19.223189Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The header displays the text \"TestPro\". How would you like to proceed with this information?",
+        "metadata": {}
     }
 ]
