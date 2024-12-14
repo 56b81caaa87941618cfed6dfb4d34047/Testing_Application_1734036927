@@ -2039,5 +2039,13 @@
         "metadata": {
             "component_id": "Hero1734036930"
         }
+    },
+    {
+        "id": "0c3c4a43-a56f-4397-bc45-48010aa46eab",
+        "timestamp": "2024-12-14T01:00:35.809992Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The content inside the header box says \"TestPro\". How would you like to modify or update it?",
+        "metadata": {}
     }
 ]
