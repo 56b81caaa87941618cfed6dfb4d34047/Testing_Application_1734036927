@@ -1849,5 +1849,23 @@
         "source": "base_assistant",
         "content": "The background color of the header has been changed to blue. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "298c392a-8ec4-4db2-9dbd-76d6169f2544",
+        "timestamp": "2024-12-14T00:20:47.699985Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
+    },
+    {
+        "id": "74f33050-7ae9-450f-a0f6-a5fcc57f7510",
+        "timestamp": "2024-12-14T00:20:50.099129Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Hello! How can I assist you with your app today?",
+        "metadata": {}
     }
 ]
