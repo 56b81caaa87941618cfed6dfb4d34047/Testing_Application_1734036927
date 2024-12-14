@@ -1957,5 +1957,23 @@
         "source": "base_assistant",
         "content": "Hello! How can I assist you with your app today?",
         "metadata": {}
+    },
+    {
+        "id": "86690eeb-fce1-42e2-b0a6-4cdac3359f62",
+        "timestamp": "2024-12-14T00:40:12.573628Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
+    },
+    {
+        "id": "83f40d49-e7e3-40a5-90f9-2b4e9487163b",
+        "timestamp": "2024-12-14T00:40:14.702734Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "How can I help you with your app today?",
+        "metadata": {}
     }
 ]
