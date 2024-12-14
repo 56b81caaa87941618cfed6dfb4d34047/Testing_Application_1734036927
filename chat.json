@@ -2047,5 +2047,15 @@
         "source": "base_assistant",
         "content": "The content inside the header box says \"TestPro\". How would you like to modify or update it?",
         "metadata": {}
+    },
+    {
+        "id": "da45d049-9c1c-4511-b858-664cde8c40f1",
+        "timestamp": "2024-12-14T01:03:34.774004Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi",
+        "metadata": {
+            "component_id": "Header1734036930"
+        }
     }
 ]
