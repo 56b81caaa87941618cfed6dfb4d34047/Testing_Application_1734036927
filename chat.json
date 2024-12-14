@@ -1654,5 +1654,15 @@
         "source": "base_assistant",
         "content": "Hello! How can I help you with your app today?",
         "metadata": {}
+    },
+    {
+        "id": "8f30862a-aac5-43cf-83d5-7e018f8f0eb7",
+        "timestamp": "2024-12-14T00:13:57.308828Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "test",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
     }
 ]
