@@ -1690,5 +1690,23 @@
         "source": "base_assistant",
         "content": "How can I help you with your app today?",
         "metadata": {}
+    },
+    {
+        "id": "d6586c63-21c6-4f71-bad7-08d3110e430d",
+        "timestamp": "2024-12-14T00:14:37.887193Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
+    },
+    {
+        "id": "f33213cc-aff2-4658-a9b1-c265efd4cc5c",
+        "timestamp": "2024-12-14T00:14:39.790295Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Hello! How can I assist you with your app today?",
+        "metadata": {}
     }
 ]
