@@ -2029,5 +2029,15 @@
         "source": "base_assistant",
         "content": "The header displays the text \"TestPro\". How would you like to proceed with this information?",
         "metadata": {}
+    },
+    {
+        "id": "75acd0d4-a442-4f83-93f9-8f7993d0f1b0",
+        "timestamp": "2024-12-14T01:00:32.116567Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "what does the content inside this box say",
+        "metadata": {
+            "component_id": "Hero1734036930"
+        }
     }
 ]
