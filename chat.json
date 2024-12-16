@@ -2203,5 +2203,15 @@
         "source": "base_assistant",
         "content": "Hello! How can I help you with your app today?",
         "metadata": {}
+    },
+    {
+        "id": "06933452-cded-4e1c-8eb4-94d86cbcd043",
+        "timestamp": "2024-12-16T23:41:42.448380Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Hi there",
+        "metadata": {
+            "component_id": "Header1734036930"
+        }
     }
 ]
