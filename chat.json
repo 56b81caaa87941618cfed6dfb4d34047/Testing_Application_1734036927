@@ -2221,5 +2221,15 @@
         "source": "base_assistant",
         "content": "Hi! How can I assist you with your app today?",
         "metadata": {}
+    },
+    {
+        "id": "091fc5de-f01d-4937-b9e9-4099651d5693",
+        "timestamp": "2024-12-16T23:41:54.475038Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "change background to blue",
+        "metadata": {
+            "component_id": "Header1734036930"
+        }
     }
 ]
