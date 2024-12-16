@@ -2185,5 +2185,15 @@
         "source": "base_assistant",
         "content": "The header displays the text \"TestPro\". How would you like to proceed with it?",
         "metadata": {}
+    },
+    {
+        "id": "2e040e83-3df7-4110-a780-37b492267877",
+        "timestamp": "2024-12-16T21:17:49.696154Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "hi there",
+        "metadata": {
+            "component_id": "Header1734036930"
+        }
     }
 ]
